@@ -1,4 +1,4 @@
-## _Quadratic equation_
+## _Quadratic equations_
 
 This program can decide quadratic equations, such as `a * x ** 2 + b * x + c = 0` 
 by using discriminant (`d`), if `a != 0`. If `a == 0` - equation isn't quadratic.
@@ -17,5 +17,5 @@ Root is calculated using the formula `-b / 2 * a`
 If `d < 0` - equation hasn't roots
 
 
-
+![version](https://img.shields.io/github/pipenv/locked/python-version/Lily-Simon/Quadratic_equation?color=green)
 ![issues](https://img.shields.io/github/issues/Lily-Simon/Quadratic_equation?color=green)
