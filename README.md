@@ -17,5 +17,5 @@ Root is calculated using the formula `-b / 2 * a`
 If `d < 0` - equation hasn't roots
 
 
-![python](https://img.shields.io/pypi/pyversions/Django?color=green&style=flat-square)
+
 ![issues](https://img.shields.io/github/issues/Lily-Simon/Quadratic_equation?color=green)
